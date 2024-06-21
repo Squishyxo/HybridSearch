@@ -1,0 +1,7 @@
+streamlit
+elasticsearch
+sentence-transformers==2.2.2
+transformers==4.30.2
+torch==2.0.1
+altair==4.2.0
+numpy==1.23.5
